@@ -1,0 +1,14 @@
+sbt
+github
+deploy
+gatling
+ansible
+dashboard-view
+delivery-pipeline-plugin 
+docker-build-step 
+envinject
+mailer
+managed-scripts
+repository-connector
+urltrigger
+
