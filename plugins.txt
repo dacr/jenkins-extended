@@ -29,5 +29,6 @@ repository-connector
 sbt
 scm-api
 ssh-credentials
+swarm
 token-macro
 urltrigger
