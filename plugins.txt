@@ -23,6 +23,7 @@ maven-plugin
 parameterized-trigger
 parameterized-trigger
 plain-credentials
+postbuild-task
 promoted-builds
 rebuild
 repository-connector
